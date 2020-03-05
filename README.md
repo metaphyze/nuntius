@@ -44,7 +44,7 @@ or this (topic):
 ./nuntius -credentialsFile=fireaseProjectCreds.json -pushFile=someMessageFile.json -topic=myClientsSubscribedTopic
 ```
 ### You can get it here
-You can download the [Ubuntu version here](https://metaphyze-public.s3.amazonaws.com/tarry/releases/1.0/ubuntu/tarry) (built on Ubuntu 18.04LTS), the [Mac version here](https://metaphyze-public.s3.amazonaws.com/tarry/releases/1.0/macos/tarry) (built on macOS Mojave), and the [Windows version here](https://metaphyze-public.s3.amazonaws.com/tarry/releases/1.0/windows/tarry.exe)  These are all standalone executables.  You don't need to install any libraries to run them, but on Linux/Mac you'll need to 
+You can download the [Ubuntu version here](https://metaphyze-public.s3.amazonaws.com/nuntius/releases/1.0/ubuntu/nuntius) (built on Ubuntu 18.04LTS), the [Mac version here](https://metaphyze-public.s3.amazonaws.com/nuntius/releases/1.0/macos/nuntius) (built on macOS Mojave), and the [Windows version here](https://metaphyze-public.s3.amazonaws.com/nuntius/releases/1.0/windows/nuntius.exe)  These are all standalone executables.  You don't need to install any libraries to run them, but on Linux/Mac you'll need to 
 ```
 chmod +x nuntius
 ```
