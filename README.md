@@ -1,5 +1,5 @@
 # nuntius
-<b>nuntius</b> is a developer command line tool for sending Firebase push notifications to Android devices,
+<b>nuntius</b> is a command line tool for sending Firebase push notifications to Android devices,
 iOS devices, and browsers (web push notifications).  "nuntius" is the Latin word for messenger.  I don't explain here how to 
 enable your devices to receive push notificaitons.  Google has tutorials on that here: [Android](https://firebase.google.com/docs/cloud-messaging/android/client),
 [iOS](https://firebase.google.com/docs/cloud-messaging/ios/client), and [Web](https://firebase.google.com/docs/cloud-messaging/js/client).
