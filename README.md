@@ -51,8 +51,7 @@ chmod +x nuntius
 to make them executable.
 
 ### Or you can build it yourself
-If you want to build <b>nuntius</b> yourself, you'll need to install Go.  Many sites give instructions on this so I won't repeat them.  
-Here's a good one: [How to Install Go on Ubuntu 18.04](https://linuxize.com/post/how-to-install-go-on-ubuntu-18-04/).
+If you want to build <b>nuntius</b> yourself, you'll need to install Go.  Many sites give instructions on this so I won't repeat them. Here's a good one: [How to Install Go on Ubuntu 18.04](https://linuxize.com/post/how-to-install-go-on-ubuntu-18-04/).
 Once Go is installed, you can build it by simply typing:
 
 ```
